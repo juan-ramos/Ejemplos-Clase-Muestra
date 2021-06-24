@@ -1,0 +1,9 @@
+cadena_1 = "Hola, Mundo"
+cadena_2 = 'Hola, Mundo'
+cadena_3 = "Hola, 'Mundo'"
+cadena_4 = 'Hola, "Mundo"'
+
+print(cadena_1)
+print(cadena_2)
+print(cadena_3)
+print(cadena_4)
