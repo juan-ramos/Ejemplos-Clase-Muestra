@@ -1,0 +1,6 @@
+matricula = 1335255
+alumno = 'Juan Manuel Ramos Castro'
+promedio = 8.9
+acreditado = (promedio>6.9)
+
+print("Matrícula: ", matricula, "\nAlumno: ", alumno, "\nPromedio: ", promedio, "\nEl alumno es acreditado:", acreditado)
